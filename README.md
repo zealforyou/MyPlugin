@@ -1,4 +1,4 @@
-# <img src="imgs/va-logo.png" width="200px" align="center" alt="VirtualAPK"/>
+# <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1514167933&di=45ec4602372b9865471ed8e99466b5e7&imgtype=jpg&er=1&src=http%3A%2F%2Fvfxreel.net%2Fwp-content%2Fuploads%2F2014%2F11%2FVolumetric-Wireframe.jpg" width="200px" align="center" alt="VirtualAPK"/>
 [![license](http://img.shields.io/badge/license-Apache2.0-brightgreen.svg?style=flat)](https://github.com/didi/VirtualAPK/blob/master/LICENSE)
 [![Release Version](https://img.shields.io/badge/release-0.9.1-red.svg)](https://github.com/didi/VirtualAPK/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/didi/VirtualAPK/pulls)
@@ -121,9 +121,6 @@ virtualApk {
 
 Welcome to contribute by creating issues or sending pull requests. See [Contributing Guide](CONTRIBUTING.md) for guidelines.
 
-# Who is using VirtualAPK?
-
-<img src="imgs/didi.png" width="78px" align="center" alt="滴滴出行"/> <img src="imgs/uber-china.png" width="78px" align="center" alt="Uber中国"/>
 
 # License
 
